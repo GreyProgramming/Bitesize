@@ -1,0 +1,5 @@
+Num = int(input("Number plz: "))
+if Num%2!=0:
+    print("ODD!")
+else:
+    print("Boringly Even")
